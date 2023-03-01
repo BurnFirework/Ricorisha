@@ -1,0 +1,2 @@
+DATA_SIZE = 72219
+RELATIVE_LOCATION = '../combined'

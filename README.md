@@ -9,6 +9,4 @@
 3. Запустите нужный скрипт с помощью команды `python3 <script_name>`
 
 ## Зависимости
-- pip install tqdm
-- pip install imagesize
-- pip install matplotlib
+Все зависимости указаны в requirements.txt
